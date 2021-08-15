@@ -119,6 +119,16 @@ https://github.com/sorrycc/awesome-javascript
 
 _________________________________
 
+**Deploy Angular App to gh-pages (GitHub Pages)**
+
+https://medium.com/tech-insights/how-to-deploy-angular-apps-to-github-pages-gh-pages-896c4e10f9b4
+
+**Deploy React App to gh-pages (Github Pages)**
+
+https://github.com/gitname/react-gh-pages
+
+_________________________________
+
 **Keyboard Shortcuts to Speed up Workflow**
 
 Keyboard Shortcut Game
@@ -158,3 +168,39 @@ End of Line: fn + right arrow
 Beginning / End of File: Command + Up / Down Arrow
 
 _____________________________________
+
+**Common Git Commands**
+
+**Push React App to Master (in Angular you do not have to initialize with git init) ** 
+
+git init
+
+git add .
+
+git commit -m"Place your commit message here"
+
+git remote add origin "https://. "
+
+git push -u origin master
+
+**If having problems with the above commands**
+
+git add .
+
+git commit
+
+git push
+
+**Create a New Branch**
+
+git checkout -b branch_name
+
+**Switch to a new branch**
+
+git checkout branch_name
+
+**Push your branch to the remote repository**
+
+git push -u origin branch_name
+
+
