@@ -57,7 +57,7 @@ https://javascript.info
 
 ________________________________
 
-**Other Code Sandboxes to Practice Code:**
+**Other Code Sandboxes to Practice Code / See Examples:**
  
 JSFiddle (for vanilla js)
 http://jsfiddle.net/
