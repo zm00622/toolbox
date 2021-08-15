@@ -1,7 +1,9 @@
 # toolbox
 This repository presents a collection of helpful resources. More resources will be added as time goes on. Feel free to submit your own suggestions!
 
-***UI / UX Toolbox***
+**UI / UX Toolbox**
+
+_________________________________
 
 **Tools for Modern CSS**
 
@@ -27,6 +29,44 @@ This repository presents a collection of helpful resources. More resources will 
 
 ** CSS Gradient Buttons - https://cutt.ly/eQY7GNH 
 
+________________________________
+
 **Unminify JavaScript, CSS, HTML, XML and JSON code**
 
 https://unminify.com/
+
+________________________________
+
+**Documentation:**
+
+Mozilla Development Network
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+W3Schools
+https://www.w3schools.com/
+
+JavaScript Garden
+http://bonsaiden.github.io/JavaScript-Garden/
+
+DevDocs
+http://devdocs.io/
+
+JavaScript.info
+https://javascript.info
+
+
+________________________________
+
+**Other Code Sandboxes to Practice Code:**
+ 
+JSFiddle (for vanilla js)
+http://jsfiddle.net/
+
+JSLint (for vanilla js)
+http://jslint.com/
+
+Sandbox for Angular, React, Node and all the rest
+https://stackblitz.com/
+
+Sandbox for Backend Development
+http://phpfiddle.org/
