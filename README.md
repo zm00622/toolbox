@@ -113,6 +113,10 @@ https://zero-to-mastery.github.io/resources/
 Zero to Mastery (the repo)
 https://github.com/zero-to-mastery/resources
 
+Awesome JavaScript
+https://github.com/sorrycc/awesome-javascript
+
+
 _________________________________
 
 **Keyboard Shortcuts to Speed up Workflow**
