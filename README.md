@@ -27,6 +27,6 @@ This repository presents a collection of helpful resources. More resources will 
 
 ** CSS Gradient Buttons - https://cutt.ly/eQY7GNH 
 
-**Unminify Tool**
+**Unminify JavaScript, CSS, HTML, XML and JSON code**
 
 https://unminify.com/
