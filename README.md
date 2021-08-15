@@ -105,6 +105,16 @@ https://paletton.com/#uid=10Z0u0kr5s4IobBuwksjOvmbgKK
 
 _________________________________
 
+**Other Repos Like This One (More Resources!)**
+
+Zero to Mastery (the page)
+https://zero-to-mastery.github.io/resources/
+
+Zero to Mastery (the repo)
+https://github.com/zero-to-mastery/resources
+
+_________________________________
+
 **Keyboard Shortcuts to Speed up Workflow**
 
 Keyboard Shortcut Game
