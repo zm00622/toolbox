@@ -3,7 +3,7 @@ This repository presents a collection of helpful resources. More resources will 
 
 ***UI / UX Toolbox***
 
-<strong>Modern CSS</strong>
+**Tools for Modern CSS**
 
 ** CSS Box shadow Generator - https://cutt.ly/4QY436A
 
@@ -26,3 +26,7 @@ This repository presents a collection of helpful resources. More resources will 
 ** CSS Animation Generator - https://cutt.ly/WQY7Arf
 
 ** CSS Gradient Buttons - https://cutt.ly/eQY7GNH 
+
+**Unminify Tool**
+
+https://unminify.com/
