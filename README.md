@@ -73,16 +73,16 @@ http://phpfiddle.org/
 
 ________________________________
 
-**20 Useful JavaScript Cheat Sheets:
+**20 Useful JavaScript Cheat Sheets:**
 
 https://www.rankred.com/javascript-cheat-sheets/
 
-**& one more Cheat Sheet:
+**& one more Cheat Sheet:**
 
 https://devhints.io/es6
 _________________________________
 
-**Graphic Design:
+**Graphic Design:**
 
 **Free Stock Photo Resources**
 
@@ -105,7 +105,7 @@ https://paletton.com/#uid=10Z0u0kr5s4IobBuwksjOvmbgKK
 
 _________________________________
 
-**Keyboard Shortcuts to Speed up Workflow
+**Keyboard Shortcuts to Speed up Workflow**
 
 Keyboard Shortcut Game
 
@@ -115,7 +115,7 @@ Visual Studio Code Keyboard Shortcuts
 
 https://hackernoon.com/12-visual-studio-code-shortcuts-for-faster-coding-ts3a3yvg
 
-**Zary's Favorite VS Code Shortcuts
+**Zary's Favorite VS Code Shortcuts**
 
 Delete Line: Shift - Command - K
 
