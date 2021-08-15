@@ -70,3 +70,77 @@ https://stackblitz.com/
 
 Sandbox for Backend Development
 http://phpfiddle.org/
+
+________________________________
+
+**20 Useful JavaScript Cheat Sheets:
+
+https://www.rankred.com/javascript-cheat-sheets/
+
+**& one more Cheat Sheet:
+
+https://devhints.io/es6
+_________________________________
+
+**Graphic Design:
+
+**Free Stock Photo Resources**
+
+Pixabay
+
+https://pixabay.com/
+
+Pexel
+
+https://www.pexels.com/
+
+**Free Editing Software**
+
+Photopea
+
+https://www.photopea.com/
+
+Color Picker
+https://paletton.com/#uid=10Z0u0kr5s4IobBuwksjOvmbgKK
+
+_________________________________
+
+**Keyboard Shortcuts to Speed up Workflow
+
+Keyboard Shortcut Game
+
+https://mattshaw.org/projects/shortcutgame/
+
+Visual Studio Code Keyboard Shortcuts
+
+https://hackernoon.com/12-visual-studio-code-shortcuts-for-faster-coding-ts3a3yvg
+
+**Zary's Favorite VS Code Shortcuts
+
+Delete Line: Shift - Command - K
+
+Add Line Comment: Command - K Command - C
+
+Remove Line Comment: Command - K Command - U
+
+Find and Replace: Option - Command - F
+
+Zen Mode: Command - K - Z (exit by hitting esc esc)
+
+Open Terminal: Control ^ - Backtick
+
+Insert Line Above: Shift - Command - Enter
+
+Insert Line Below: Shift - Command
+
+Indent Line: Command - ]
+
+Outdent Line: Command - [
+
+Beginning of Line: fn + left arrow
+
+End of Line: fn + right arrow
+
+Beginning / End of File: Command + Up / Down Arrow
+
+_____________________________________
