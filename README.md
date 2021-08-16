@@ -37,6 +37,12 @@ https://unminify.com/
 
 ________________________________
 
+**Free HTML Templates**
+
+https://nicepage.com/html-templates
+
+________________________________
+
 **Documentation:**
 
 Mozilla Development Network
