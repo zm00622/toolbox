@@ -19,3 +19,7 @@ app.set('view engine', 'pug');
 This solved the same problem for me!
 
 This fix was discovered in part by searching Stack Overflow. Thank you Stack Overflow.
+
+MEAN Stack Tutorial Link (Part 3)
+https://youtu.be/dT1ID4q57fs
+
