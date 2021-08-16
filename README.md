@@ -205,4 +205,13 @@ git checkout branch_name
 
 git push -u origin branch_name
 
+__________________________________
+
+**Stacks Explained**
+
+What do MAMP, LAMP, MEAN and all of those other acronyms mean?
+
+https://en.wikipedia.org/wiki/Solution_stack
+
+___________________________________
 
