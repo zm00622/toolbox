@@ -167,6 +167,8 @@ End of Line: fn + right arrow
 
 Beginning / End of File: Command + Up / Down Arrow
 
+To Rename All Instances of a Variable: Click on Variable and Press F2
+
 _____________________________________
 
 **Common Git Commands**
