@@ -221,3 +221,6 @@ https://en.wikipedia.org/wiki/Solution_stack
 
 ___________________________________
 
+**CRM, Email Management, Marketing Management etc.**
+
+ClickUp (A San Diego Based Company)
