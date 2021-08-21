@@ -181,7 +181,7 @@ To Rename All Instances of a Variable: Click on Variable and Press F2
 
 _____________________________________
 
-**Improving Productivity in Terminals with Aliases
+**Improving Productivity in Terminals with Aliases**
 
 https://jorenjoestar.github.io/post/productivity_terminal/productivity_terminal/
 _____________________________________
