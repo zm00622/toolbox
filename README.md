@@ -145,6 +145,10 @@ Visual Studio Code Keyboard Shortcuts
 
 https://hackernoon.com/12-visual-studio-code-shortcuts-for-faster-coding-ts3a3yvg
 
+**VS Code Tricks**
+
+https://zellwk.com/blog/useful-vscode-keyboard-shortcuts/#:~:text=You%20can%20bring%20up%20to,to%20command%20%2B%20option%20%2B%202%20.
+
 **Zary's Favorite VS Code Shortcuts**
 
 Delete Line: Shift - Command - K
