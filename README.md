@@ -181,6 +181,11 @@ To Rename All Instances of a Variable: Click on Variable and Press F2
 
 _____________________________________
 
+**Improving Productivity in Terminals with Aliases
+
+https://jorenjoestar.github.io/post/productivity_terminal/productivity_terminal/
+_____________________________________
+
 **Common Git Commands**
 
 **Push React App to Master (in Angular you do not have to initialize with git init) ** 
