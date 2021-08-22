@@ -29,6 +29,12 @@ _________________________________
 
 ** CSS Gradient Buttons - https://cutt.ly/eQY7GNH 
 
+** CSS How a dropdown works https://cssarrowplease.com/
+
+** Get a websites color pallete https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh
+
+** Download a page and all its assets https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb
+
 ________________________________
 
 **Unminify JavaScript, CSS, HTML, XML and JSON code**
@@ -77,6 +83,8 @@ https://stackblitz.com/
 Sandbox for Backend Development
 http://phpfiddle.org/
 
+Sandbox for Vue, React, Flutter, html-css-js (social see pens by others)<br/>
+https://codepen.io/
 ________________________________
 
 **20 Useful JavaScript Cheat Sheets:**
