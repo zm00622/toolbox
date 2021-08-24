@@ -228,6 +228,9 @@ git checkout branch_name
 
 git push -u origin branch_name
 
+**Cloning a Repo**
+
+https://blogs.sap.com/2019/07/12/how-to-clone-a-github-repository-to-local-mac-computer/
 __________________________________
 
 **Stacks Explained**
