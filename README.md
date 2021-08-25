@@ -231,6 +231,10 @@ git push -u origin branch_name
 **Cloning a Repo**
 
 https://blogs.sap.com/2019/07/12/how-to-clone-a-github-repository-to-local-mac-computer/
+
+After cloning a repo, you may have to rename the remote origin stored in git:
+
+git remote set-url origin "https://etc. etc."
 __________________________________
 
 **Stacks Explained**
