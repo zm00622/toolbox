@@ -35,6 +35,7 @@ _________________________________
 
 ** Download a page and all its assets https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb
 
+
 ________________________________
 
 **Unminify JavaScript, CSS, HTML, XML and JSON code**
@@ -235,6 +236,20 @@ https://blogs.sap.com/2019/07/12/how-to-clone-a-github-repository-to-local-mac-c
 After cloning a repo, you may have to rename the remote origin stored in git:
 
 git remote set-url origin "https://etc. etc."
+__________________________________
+
+**How to setup SASS (i.e., SCSS) preprocessor in VS Code**  
+
+https://youtu.be/ms6ca5w3Qjk
+
+  1.) Create styles.scss file
+  
+  2.) Create index.html file 
+  
+  3.) Ensure you have Live Server and Live SASS Compiler extensions installed. These extensions are provided by Ritwick Dey
+  
+  4.) In the blue footer at the bottom of your code editor, click Watch SASS.
+
 __________________________________
 
 **Stacks Explained**
