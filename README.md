@@ -45,6 +45,12 @@ https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/
 
 _________________________________
 
+**BEM CSS Naming Convention**
+
+https://scalablecss.com/bem-nesting-grandchild-elements/
+
+__________________________________
+
 **Unminify JavaScript, CSS, HTML, XML and JSON code**
 
 https://unminify.com/
