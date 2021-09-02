@@ -51,6 +51,19 @@ https://scalablecss.com/bem-nesting-grandchild-elements/
 
 __________________________________
 
+**Fluid Typography**
+
+"Viewport units are what make fluid typography on the web possible. 
+
+Viewport units refer to a percentage of the browser’s viewport dimensions. 
+
+For example, 1 viewport width (vw) is equal to 1% of the viewport’s width. 
+
+The units differ from percentages because they are always relative to the viewport, whereas a percentage is relative to the element’s parent container."
+
+~ Michael Riethmuller
+__________________________________
+
 **Unminify JavaScript, CSS, HTML, XML and JSON code**
 
 https://unminify.com/
