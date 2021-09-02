@@ -215,6 +215,10 @@ Beginning / End of File: Command + Up / Down Arrow
 
 To Rename All Instances of a Variable: Click on Variable and Press F2
 
+To Rename All Instances of text: Highlight, then Command - F2
+
+Format SCSS (VS Code Extension): Shift - Option - F
+
 _____________________________________
 
 **Improving Productivity in Terminals with Aliases**
