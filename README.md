@@ -5,6 +5,12 @@ This repository presents a collection of helpful resources. More resources will 
 
 _________________________________
 
+**Simplifying Your CSS**
+
+https://paulcpederson.com/articles/css-for-people-who-hate-css/
+
+_________________________________
+
 **Tools for Modern CSS**
 
 ** CSS Box shadow Generator - https://cutt.ly/4QY436A
