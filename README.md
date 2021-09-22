@@ -9,6 +9,11 @@ _________________________________
 
 https://paulcpederson.com/articles/css-for-people-who-hate-css/
 
+
+**Responsive CSS Conventions**
+
+https://polypane.app/blog/responsive-design-ground-rules/
+
 _________________________________
 
 **Tools for Modern CSS**
