@@ -18,5 +18,8 @@ nav-bar {
   font-size: 2rem;
 }
 
-/* Step 3: To make your page responsive across devices, all you now have to do is create media queries for your html font-size. Make the font-size percentage smaller
+/* Step 3: To make your page responsive across devices, all you now have to do is create media queries. Make the font-size percentage smaller
 for smalller devices, and larger for larger devices. */
+
+/* Note: You may want to use box-sizing: border-box; Doing so will make your element sizes more obvious. */
+
