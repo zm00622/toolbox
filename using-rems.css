@@ -1,3 +1,10 @@
+!!!!!!Important: Before you start using media queries and rems, make sure you tell the browser to use the viewport width. You have to tell the browser to use 
+viewport width with a meta tag, otherwise your set widths might not work with your media queries. Here is an example:
+
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 /* Step 1: Set the html font-size to 62.5% */
 
 html {
