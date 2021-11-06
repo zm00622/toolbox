@@ -230,7 +230,7 @@ To Rename All Instances of text: Highlight, then Command - F2
 
 Format SCSS (VS Code Extension): Shift - Option - F
 
-Find in File:
+Find in File: Click on the Folder, then Command - P
 
 The problem is that when you have an directory open in Visual Studio Code, with dozens of subdirectories, you often want to search in a single directory. Find in files isn't at all about doing that. (This is a useful answer to a completely different question, of course.) . @JesperWilfing 's answer (right click on folder, find in folder) is better. 
 
