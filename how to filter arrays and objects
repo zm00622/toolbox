@@ -1,6 +1,5 @@
 https://stackoverflow.com/questions/5072136/javascript-filter-for-objects/37616104
 
-
 Taken from the above article:
 
 I provide here several solutions:
@@ -46,7 +45,27 @@ ___________________________________________________________
 
 Object.filter = (obj, predicate) => 
                   Object.fromEntries(Object.entries(obj).filter(predicate));
+                  
+                
+Another Example for use case number 4:
+
+function toArray(obj) {
+  return Object.entries(obj);
+}
+
+Expected output using toArray function above
+
+toArray({ a: 1, b: 2 }) ➞ [["a", 1], ["b", 2]]
+
+toArray({ shrimp: 15, tots: 12 }) ➞ [["shrimp", 15], ["tots", 12]]
+
+toArray({}) ➞ []  
 
 ___________________________________________________________
+
+
+**OTHER RESOURCES**
+
+____________________________________________________________
 
 
