@@ -12,3 +12,18 @@ I provide here several solutions:
 3.) Using map and spread syntax instead of reduce
 
 4.) Using Object.entries and Object.fromEntries
+
+___________________________________________________________
+
+1.) Example
+
+Object.filter = (obj, predicate) => 
+    Object.keys(obj)
+          .filter( key => predicate(obj[key]) )
+          .reduce( (res, key) => (res[key] = obj[key], res), {} );
+
+___________________________________________________________
+
+2.) Example
+
+___________________________________________________________
