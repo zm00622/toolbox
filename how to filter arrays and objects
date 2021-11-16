@@ -26,4 +26,27 @@ ___________________________________________________________
 
 2.) Example
 
+Object.filter = (obj, predicate) => 
+    Object.keys(obj)
+          .filter( key => predicate(obj[key]) )
+          .reduce( (res, key) => Object.assign(res, { [key]: obj[key] }), {} );
+          
 ___________________________________________________________
+
+3.) Example
+
+Object.filter = (obj, predicate) => 
+    Object.assign(...Object.keys(obj)
+                    .filter( key => predicate(obj[key]) )
+                    .map( key => ({ [key]: obj[key] }) ) );
+
+___________________________________________________________
+
+4.) Example
+
+Object.filter = (obj, predicate) => 
+                  Object.fromEntries(Object.entries(obj).filter(predicate));
+
+___________________________________________________________
+
+
