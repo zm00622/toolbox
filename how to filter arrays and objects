@@ -1,1 +1,14 @@
 https://stackoverflow.com/questions/5072136/javascript-filter-for-objects/37616104
+
+
+Taken from the above article:
+
+I provide here several solutions:
+
+1.) Using reduce and Object.keys
+
+2.) As (1), in combination with Object.assign
+
+3.) Using map and spread syntax instead of reduce
+
+4.) Using Object.entries and Object.fromEntries
