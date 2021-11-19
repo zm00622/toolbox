@@ -1,6 +1,13 @@
 # toolbox
 This repository presents a collection of helpful resources. More resources will be added as time goes on. Feel free to submit your own suggestions!
 
+
+**Filter Objects**
+
+https://codepen.io/RiseOverLimits/pen/WNjMyQZ?editors=1010
+
+https://codepen.io/RiseOverLimits/pen/RwVJZjJ
+
 **UI / UX Toolbox**
 
 _________________________________
