@@ -1,0 +1,50 @@
+<html>
+  <script>
+    
+    const data = [
+  {
+   id: 1,
+   name: 'James',
+   age: 30
+  },
+  {
+   id: 2,
+   name: 'John',
+   age: 24
+  },
+  {
+    id: 3,
+    name: 'Cynthia',
+    age: 35
+  }
+];
+
+const reducedFilter = (data, keys, fn) => // keys = id
+  data.filter(fn).map(el =>
+    keys.reduce((acc, key) => {
+      acc[key] = el[key];
+      return acc
+    }, {}) // First reduce parameter is a function. Second reduce parameter is an object.
+  );
+
+
+// we use filter to filter out the array based on the predicate "fn" that is age > 24
+// On filtered array we used map() to return new object using reduce() to filter out the keys which were not supplied in the keys parameter
+// Only id and name returned.
+
+const olderThan24 = reducedFilter(data, ['id', 'name', 'age'], item => item.age > 24);
+
+document.getElementById('test1').innerHTML = olderThan24.map(user => 
+    `<div class="individualCard">
+      <div>Name: ${user.name}</div>
+      <div>Age: ${user.age}</div>
+    </div>`
+).join('')
+
+
+
+// Open console to view with console.log
+
+console.log(reducedFilter(data, ['id', 'name', 'age'], item => item.age > 24));    
+  </script>
+  </html>
