@@ -2,19 +2,19 @@ https://stackoverflow.com/questions/5072136/javascript-filter-for-objects/376161
 
 Taken from the above article:
 
-I provide here several solutions:
+### I provide here several solutions:
 
-1.) Using reduce and Object.keys
+## 1.) Using reduce and Object.keys
 
-2.) As (1), in combination with Object.assign
+## 2.) As (1), in combination with Object.assign
 
-3.) Using map and spread syntax instead of reduce
+## 3.) Using map and spread syntax instead of reduce
 
-4.) Using Object.entries and Object.fromEntries
+## 4.) Using Object.entries and Object.fromEntries
 
 ___________________________________________________________
 
-1.) Example
+## 1.) Example
 
 Object.filter = (obj, predicate) => 
     Object.keys(obj)
@@ -23,7 +23,7 @@ Object.filter = (obj, predicate) =>
 
 ___________________________________________________________
 
-2.) Example
+## 2.) Example
 
 Object.filter = (obj, predicate) => 
     Object.keys(obj)
@@ -32,7 +32,7 @@ Object.filter = (obj, predicate) =>
           
 ___________________________________________________________
 
-3.) Example
+## 3.) Example
 
 Object.filter = (obj, predicate) => 
     Object.assign(...Object.keys(obj)
@@ -41,13 +41,13 @@ Object.filter = (obj, predicate) =>
 
 ___________________________________________________________
 
-4.) Example
+## 4.) Example
 
 Object.filter = (obj, predicate) => 
                   Object.fromEntries(Object.entries(obj).filter(predicate));
                   
-                
-Another Example for use case number 4:
+                 
+## Another Example for use case number 4:
 
 function toArray(obj) {
   return Object.entries(obj);
