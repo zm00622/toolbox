@@ -10,6 +10,8 @@ https://codepen.io/RiseOverLimits/pen/RwVJZjJ
 
 https://github.com/zm00622/toolbox/blob/main/how%20to%20filter%20arrays%20and%20objects.md
 
+https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d
+
 **UI / UX Toolbox**
 
 _________________________________
