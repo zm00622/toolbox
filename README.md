@@ -8,6 +8,8 @@ https://codepen.io/RiseOverLimits/pen/WNjMyQZ?editors=1010
 
 https://codepen.io/RiseOverLimits/pen/RwVJZjJ
 
+https://github.com/zm00622/toolbox/blob/main/how%20to%20filter%20arrays%20and%20objects.md
+
 **UI / UX Toolbox**
 
 _________________________________
