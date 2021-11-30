@@ -320,3 +320,11 @@ ___________________________________
 **CRM, Email Management, Marketing Management etc.**
 
 ClickUp (A San Diego Based Company)
+
+_________________________________
+
+**UI / UX Testing**
+
+Jira Software & Markup Pro for Screen Captures
+
+
