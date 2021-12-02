@@ -297,6 +297,10 @@ git remote set-url origin "https://etc. etc."
 **Git Remote Name**
 
 git remote -v
+
+**Git Remove Remote**
+
+git remote rm origin
 __________________________________
 
 **How to setup SASS (i.e., SCSS) preprocessor in VS Code**  
