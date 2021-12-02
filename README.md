@@ -293,6 +293,10 @@ https://blogs.sap.com/2019/07/12/how-to-clone-a-github-repository-to-local-mac-c
 After cloning a repo, you may have to rename the remote origin stored in git:
 
 git remote set-url origin "https://etc. etc."
+
+**Git Remote Name**
+
+git remote -v
 __________________________________
 
 **How to setup SASS (i.e., SCSS) preprocessor in VS Code**  
