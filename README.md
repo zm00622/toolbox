@@ -303,6 +303,10 @@ git remote -v
 git remote rm origin
 __________________________________
 
+**Search All Files for Text String**
+
+grep -r switchdesk.png *
+
 **How to setup SASS (i.e., SCSS) preprocessor in VS Code**  
 
 https://youtu.be/ms6ca5w3Qjk
