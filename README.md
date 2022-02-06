@@ -245,6 +245,8 @@ Find in File: Click on the Folder, then Command - P
 
 The problem is that when you have an directory open in Visual Studio Code, with dozens of subdirectories, you often want to search in a single directory. Find in files isn't at all about doing that. (This is a useful answer to a completely different question, of course.) . @JesperWilfing 's answer (right click on folder, find in folder) is better. 
 
+Preview Markdown File in VS Code - Shift - Command - V
+
 _____________________________________
 
 **Improving Productivity in Terminals with Aliases**
