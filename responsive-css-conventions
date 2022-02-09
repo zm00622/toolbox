@@ -1,3 +1,35 @@
+> ## Reddit Post
+
+For the parent:
+
+.parent {
+  position: relative;
+}
+
+And for the element to be centered:
+
+.element {
+  position: absolute;
+  top: 50%
+  left: 50%
+  transform: translate(-50%, -50%)
+
+It works like a charm.
+
+With flex-box you simply add the following properties to the parent:
+
+.parent {
+  display: flex;
+  justify-content: center; // Centers long the main axis (default: horizontal)
+  align-items: center; // Centers along the secondary axis (default: vertical)
+}
+
+Having margins on elements affects flex-box, so remove them if you're having issues.
+
+
+> ## Article
+
+
 Responsive design ground rules (updated for 2021)
 5 min read. First posted on July 2, 2019.
 Last updated: June 2, 2021.
