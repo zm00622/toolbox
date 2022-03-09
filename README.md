@@ -341,4 +341,13 @@ _________________________________
 
 Jira Software & Markup Pro for Screen Captures
 
+_________________________________
+
+JS Snippets
+
+https://1loc.dev/
+
+________________________________
+
+
 
