@@ -355,6 +355,18 @@ https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
 
 ________________________________
 
+ICONS
+
+https://storyset.com/
+
+https://iconscout.com/
+
+________________________________
+
+COLOR SCHEME GENERATOR
+
+https://coolors.co/
+
 
 
 
