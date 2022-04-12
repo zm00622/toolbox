@@ -368,5 +368,9 @@ COLOR SCHEME GENERATOR
 https://coolors.co/
 
 
+_______________________________
 
+# Regular Expressions (Learn in a playground / code sandbox!)
+
+https://regexr.com/
 
