@@ -374,3 +374,11 @@ Regular Expressions (Learn in a playground / code sandbox!)
 
 https://regexr.com/
 
+_______________________________
+
+How to setup a remote Mac Instance
+
+https://medium.com/macoclock/mac-experience-on-cloud-2021-68ef20c5ab7f
+
+_______________________________
+
