@@ -249,6 +249,8 @@ Preview Markdown File in VS Code - Shift - Command - V
 
 Delete Line in Terminal: Ctrl + u
 
+Copy File Path in Finder: Cmd + Option + C
+
 _____________________________________
 
 **Improving Productivity in Terminals with Aliases**
