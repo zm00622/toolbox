@@ -251,6 +251,8 @@ Delete Line in Terminal: Ctrl + u
 
 Copy File Path in Finder: Cmd + Option + C
 
+Find Folder in Mac Finder: Cmd + Shift + G
+
 _____________________________________
 
 **Improving Productivity in Terminals with Aliases**
