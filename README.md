@@ -247,6 +247,8 @@ The problem is that when you have an directory open in Visual Studio Code, with 
 
 Preview Markdown File in VS Code - Shift - Command - V
 
+Delete Line in Terminal: Ctrl + u
+
 _____________________________________
 
 **Improving Productivity in Terminals with Aliases**
