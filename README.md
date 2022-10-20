@@ -57,8 +57,9 @@ _________________________________
 
 ** Download a page and all its assets https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb
 
-** PX to VW Converter hhttps://khaledkzy.github.io/pixel-vh-vw-converter/
+** PX to VW Converter https://khaledkzy.github.io/pixel-vh-vw-converter/
 
+** Box shadow cards and neomorphism https://getcssscan.com/css-box-shadow-examples
 ________________________________
 
 **CSS Grid Explained**
