@@ -100,6 +100,11 @@ https://nicepage.com/html-templates
 
 ________________________________
 
+AI Generated Web Page Designs:
+
+https://my.10web.io
+________________________________
+
 **Documentation:**
 
 Mozilla Development Network
