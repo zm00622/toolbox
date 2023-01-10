@@ -105,6 +105,13 @@ AI Generated Web Page Designs:
 https://my.10web.io
 ________________________________
 
+Device Mockups:
+
+Want to place your website on a laptop or mobile device for a mockup?
+
+https://smartmockups.com/create/website-mockups
+________________________________
+
 **Documentation:**
 
 Mozilla Development Network
